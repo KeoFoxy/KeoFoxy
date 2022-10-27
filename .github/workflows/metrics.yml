@@ -36,7 +36,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-twitter.svg
-        #  token: ${{ secrets.METRICS_ANIME }}
+          token: ${{ secrets.METRICS_TOKEN }}
         #  base: ""
         #  config_timezone: Europe/Moscow
         #  plugin_anilist: yes
