@@ -15,8 +15,7 @@ jobs:
       - name: Anime      
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.TWITTER_TOKEN }}
-         # token: ${{ secrets.METRICS_ANIME }}
+          token: ${{ secrets.METRICS_ANIME }}
           base: ""
           config_timezone: Europe/Moscow
           plugin_anilist: yes
@@ -26,11 +25,8 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_shuffle: yes
           plugin_anilist_user: keofoxy
-    #  - name: Twitter     
-    #    uses: lowlighter/metrics@latest
-    #    with: 
-       #   token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: FoxyKeo
