@@ -10,7 +10,7 @@
 **Skills**: C++; Qt;
 
 - 🔭 I’m currently working on my graduation project
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 [<img src="images/github-logo.svg"  alt='github' height='40'>](https://github.com/KeoFoxy) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' height='40' width='40'>](https://twitter.com/FoxyKeo) [<img src="images/telegram-svgrepo-com.svg" alt='Telegram' height='40' width='40'>](https://t.me/KeoFoxy) [<img src="images/code-wars-logo.svg" alt='codewars' height='40'>](https://www.codewars.com/users/KeoFoxy)
 
 - 🍤 I’m currently learning:  
