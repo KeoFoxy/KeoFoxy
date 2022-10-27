@@ -12,7 +12,7 @@ on:
                 permissions:
                     contents: write
                     steps:
-                        - uses: lowlighter/metrics@latest
+                        - uses: KeoFoxy/KeoFoxy@latest
                         with:
                             # Current configuration doesn't require a GitHub token
                             token: NOT_NEEDED
@@ -25,6 +25,6 @@ config_timezone: Europe/Moscow
 plugin_anilist: yes
 plugin_anilist_limit: 10
 plugin_anilist_limit_characters: 20
-plugin_anilist_medias: anime, manga, characters
-plugin_anilist_sections: favorites
+plugin_anilist_medias: anime, manga
+plugin_anilist_sections: favorites, characters
 plugin_anilist_user: KeoFoxy
