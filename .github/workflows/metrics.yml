@@ -16,6 +16,8 @@ jobs:
       - uses: lowlighter/metrics@v3.28
         with:
           output_action: commit
+          committer_branch: main
+          committer_message: "UPD Metrics"
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
@@ -28,10 +30,10 @@ jobs:
           token: ${{ secrets.METRICS_ANIME }}
 
           # Options
-          #user: KeoFoxy
-          #template: classic
+          user: KeoFoxy
+          template: classic
           base: ""
-          #config_timezone: Europe/Moscow
+          config_timezone: Europe/Moscow
           plugin_anilist: yes
           plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 20
