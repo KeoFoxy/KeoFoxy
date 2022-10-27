@@ -15,6 +15,7 @@ jobs:
       - name: Metrics embed
       - uses: lowlighter/metrics@v3.28
         with:
+          output_action: commit
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
