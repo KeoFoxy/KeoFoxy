@@ -20,4 +20,4 @@ Skills: C++, Qt
 
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/large)](https://www.codewars.com/users/KeoFoxy)
 
-![Metrics](https://metrics.lecoq.io/KeoFoxy)
+![Metrics](github-metrics.svg)
