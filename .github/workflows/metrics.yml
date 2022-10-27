@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "5 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -23,13 +23,14 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_ANIME }}
 
           # Options
-          user: KeoFoxy
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Moscow
+          #user: KeoFoxy
+          #template: classic
+          base: ""
+          #config_timezone: Europe/Moscow
           plugin_anilist: yes
           plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 20
