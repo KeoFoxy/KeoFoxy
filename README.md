@@ -1,6 +1,7 @@
 <img src="images/Sakura.gif">
 
 ### Hi there 👋, my name is Alex
+<img src="images/10_coding_dribbble.gif" align='right' height ='300'>
 #### I'm a Software Engineer
 
 
