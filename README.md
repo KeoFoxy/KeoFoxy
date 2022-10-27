@@ -18,6 +18,6 @@ Skills: C++, Qt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeoFoxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/KeoFoxy/badges/large)](https://www.codewars.com/users/KeoFoxy)
+[![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
 
 ![Metrics](github-metrics.svg)
