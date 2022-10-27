@@ -20,4 +20,4 @@ Skills: C++, Qt
 
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/large)](https://www.codewars.com/users/KeoFoxy)
 
-![Metrics](https://beta-metrics.lecoq.io/KeoFoxy?template=classic&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&anilist=false&anilist.user=KeoFoxy&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Europe%2FMoscow)
+![Metrics](https://metrics.lecoq.io/KeoFoxy)
