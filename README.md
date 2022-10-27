@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently working on my graduation project
 - 📫 How to reach me: 
-
-
 [<img src="images/github-logo.svg"  alt='github' height='40'>](https://github.com/KeoFoxy) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' height='40' width='40'>](https://twitter.com/FoxyKeo) [<img src="images/telegram-svgrepo-com.svg" alt='Telegram' height='40' width='40'>](https://t.me/KeoFoxy) [<img src="images/code-wars-logo.svg" alt='codewars' height='40'>](https://www.codewars.com/users/KeoFoxy)
 
-- 🍤 I’m currently learning:
+- 🍤 I’m currently learning:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='40'> 
 
 
@@ -23,4 +21,4 @@
 
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
 
-[![Metrics](github-metrics.svg)](https://anilist.co/user/KeoFoxy/)
+[![Metrics](github-metrics-anime.svg)](https://anilist.co/user/KeoFoxy/)
