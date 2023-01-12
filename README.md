@@ -16,7 +16,7 @@
 - 🍤 I’m currently learning:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='40'> 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&langs_count=10&layout=compact&theme=react&hide=tcl,verilog,systemverilog)](https://github.com/KeoFoxy)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=false)](https://github.com/KeoFoxy)
 
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
 
