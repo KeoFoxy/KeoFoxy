@@ -38,5 +38,13 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: FoxyKeo
 
-
-
+    lines:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: lines-of-code.svg
+            token: ${{ secrets.METRICS_SECRET }}
+            committer_token: ${{ secrets.GITHUB_TOKEN }}
+            base: "repositories"
+            plugin_lines: yes
