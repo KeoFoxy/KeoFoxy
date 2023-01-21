@@ -21,6 +21,6 @@
 
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
 
-[![Metrics_lang](top_lang.svg)](https://github.com/KeoFoxy)
+[![Metrics_toplang](top_lang.svg)](https://github.com/KeoFoxy)
 
 [![Metrics](github-metrics-anime.svg)](https://anilist.co/user/KeoFoxy/)
