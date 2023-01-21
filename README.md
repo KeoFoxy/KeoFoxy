@@ -34,11 +34,6 @@ and here
 [<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo) 
 
 
-<<<<<<< HEAD
+
 ![My Discord alight='center'](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
 
-=======
-<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<302117410012659713>)
->>>>>>> e4d862db8fdf56bab01218baec76fc19254e635e
