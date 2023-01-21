@@ -45,7 +45,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: lines-of-code.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_ANIME }}
+          committer_token: ${{ secrets.METRICS_ANIME }}
           base: "repositories"
           plugin_lines: yes
