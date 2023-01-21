@@ -33,6 +33,6 @@ and here
 [<img src="top_languages.svg" align='left' height="140px">](https://github.com/KeoFoxy)   
 [<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo) 
 
-![Travis](https://steam-stat.vercel.app/api?profileName=KeoFoxy)
 
-<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
+![My Discord alight='center'](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
+
