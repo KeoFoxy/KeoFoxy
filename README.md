@@ -37,6 +37,6 @@ and here
 
 ![My Discord alight='center'](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
 
-![Steam](https://steam-stat.vercel.app/api?profileName=KeoFoxy)
+[![Steam](https://steam-stat.vercel.app/api?profileName=KeoFoxy)](https://steamcommunity.com/id/KeoFoxy/)
 
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
