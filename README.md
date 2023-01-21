@@ -27,9 +27,9 @@ and here
 <!---
 [![Metrics_toplang](top_languages.svg)](https://github.com/KeoFoxy)
 -->
-<img src="anime.svg" align='right' height="520px" href="https://anilist.co/user/KeoFoxy/"> 
+[<img src="anime.svg" align='right' height="520px">](https://anilist.co/user/KeoFoxy/) 
 
 
-<img src="top_languages.svg" align='left' height="140px" href="https://github.com/KeoFoxy">   
-<img src="twitter.svg" align='left' height="370px" href="https://twitter.com/FoxyKeo"> 
+[<img src="top_languages.svg" align='left' height="140px">](https://github.com/KeoFoxy)   
+[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo) 
 
