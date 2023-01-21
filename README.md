@@ -36,3 +36,5 @@ and here
 ![Travis](https://steam-stat.vercel.app/api?profileName=KeoFoxy)
 
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
