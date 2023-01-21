@@ -39,4 +39,4 @@ and here
 
 [![Steam](https://camo.githubusercontent.com/341cbcbd1ef7f66a1c63008ed22f3eeb7adb0a437af18447ec398f9a17bad008/68747470733a2f2f737465616d2d737461742e76657263656c2e6170702f6170693f70726f66696c654e616d653d4b656f466f7879)](https://steamcommunity.com/id/KeoFoxy/)
 
-<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
+<img src="https://camo.githubusercontent.com/341cbcbd1ef7f66a1c63008ed22f3eeb7adb0a437af18447ec398f9a17bad008/68747470733a2f2f737465616d2d737461742e76657263656c2e6170702f6170693f70726f66696c654e616d653d4b656f466f7879">
