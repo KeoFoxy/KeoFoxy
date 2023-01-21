@@ -27,9 +27,9 @@ and here
 <!---
 [![Metrics_toplang](top_languages.svg)](https://github.com/KeoFoxy)
 -->
-<img src="anime.svg" align='right' height="520px" > 
+<img src="anime.svg" align='right' height="520px" href="https://anilist.co/user/KeoFoxy/"> 
 
 
-<img src="top_languages.svg" align='left' height="140px" >   
-<img src="twitter.svg" align='left' height="370px" > 
+<img src="top_languages.svg" align='left' height="140px" href="https://github.com/KeoFoxy">   
+<img src="twitter.svg" align='left' height="370px" href="https://twitter.com/FoxyKeo"> 
 
