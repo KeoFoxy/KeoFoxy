@@ -16,11 +16,17 @@
 - 🍤 I’m currently learning:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height='40'>
           
+<!---
+your comment goes here
+and here
+
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&langs_count=10&layout=compact&theme=react&hide=tcl,verilog,systemverilog)](https://github.com/KeoFoxy)
-
+-->
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
-
+<!---
 [![Metrics_toplang](top_languages.svg)](https://github.com/KeoFoxy)
-
-[![Metrics](github-metrics-anime.svg)](https://anilist.co/user/KeoFoxy/)
+-->
+<img src="top_languages.svg" align='left' height =auto >   
+<img src="twitter.svg" align='left' height =auto > 
+<img src="anime.svg" align='right' height =auto > 
