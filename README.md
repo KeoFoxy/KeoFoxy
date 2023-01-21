@@ -27,7 +27,7 @@ and here
 <!---
 [![Metrics_toplang](top_languages.svg)](https://github.com/KeoFoxy)
 -->
-<img src="anime.svg" align='right' height =70% > 
+<img src="anime.svg" align='right' height =60% > 
 
 <div>
     <img src="top_languages.svg" align='left' height =auto >   
