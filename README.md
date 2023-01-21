@@ -34,3 +34,5 @@ and here
 [<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo) 
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=KeoFoxy)
+
+<img src="https://steam-stat.vercel.app/api?profileName=ananto"/>
