@@ -1,4 +1,4 @@
-<img src="images/sakura-petals.gif" height="auto" width="auto" style="border-radius:5%">
+<img src="images/cyberpunk_8bit.gif" height="auto" width="auto" style="border-radius:5%">
 
 ### こんにちは 👋, 私の名前はアレクサンデルです.
 <img src="images/backstage-techdocs-icon-1.gif" align='right' height ='300' >  
