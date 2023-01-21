@@ -71,4 +71,4 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_ignored: >-
-            verilog, systemverilog, jupyter notebook
+            verilog, systemverilog, jupyter notebook, tcl
