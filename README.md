@@ -35,4 +35,4 @@ and here
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=KeoFoxy)
 
-<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy"/>
+<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
