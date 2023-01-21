@@ -39,6 +39,4 @@ and here
 
 [![Steam](https://steam-stat.vercel.app/api?profileName=KeoFoxy)](https://steamcommunity.com/id/KeoFoxy/)
 
-![https://steam-stat.vercel.app/api?profileName=KeoFoxy](https://steamcommunity.com/id/KeoFoxy/)
-
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
