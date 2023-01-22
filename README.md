@@ -31,12 +31,14 @@ and here
 
 
 [<img src="top_languages.svg" align='left' height="140px">](https://github.com/KeoFoxy)   
-[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo) 
+[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   
 
 
 
-![My Discord alight='center'](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
+<!---
+![My Discord width="1000px"](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
+-->
 
-[![Steam](https://camo.githubusercontent.com/341cbcbd1ef7f66a1c63008ed22f3eeb7adb0a437af18447ec398f9a17bad008/68747470733a2f2f737465616d2d737461742e76657263656c2e6170702f6170693f70726f66696c654e616d653d4b656f466f7879)](https://steamcommunity.com/id/KeoFoxy/)
 
-<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy">
+<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
+<img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'>
