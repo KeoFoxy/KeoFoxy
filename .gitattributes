@@ -2,8 +2,8 @@
 *.md linguist-documentation=false
 
 *.yml linguist-detectable=true
-*.yml linguist-documentation=true
+*.yml linguist-documentation=false
 *.yml linguist-language=YAML
 *.yaml linguist-detectable=true
-*.yaml linguist-documentation=true
+*.yaml linguist-documentation=false
 *.yaml linguist-language=YAML
