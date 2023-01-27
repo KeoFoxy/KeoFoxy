@@ -31,7 +31,7 @@ and here
 
 
 [<img src="top_languages.svg" align='left' height="140px">](https://github.com/KeoFoxy)   
-[<img src="twitter.svg" align='left' height="345px">](https://twitter.com/FoxyKeo)   
+[<img src="twitter.svg" align='left' height="325px">](https://twitter.com/FoxyKeo)   
 
 
 
