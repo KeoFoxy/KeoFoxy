@@ -39,6 +39,5 @@ and here
 ![My Discord width="1000px"](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
 -->
 
-
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
 <img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'>
