@@ -76,26 +76,12 @@ jobs:
           config_timezone: ${{ secrets.METRICS_ANIME }}
           plugin_followup: no
           plugin_languages: yes
-          plugin_languages_colors: c++:#ffe2f6
-          plugin_languages_details: bytes-size, lines
-          plugin_languages_indepth: yes
-          plugin_languages_skipped: KeoFoxy/authorize-system
-        #  plugin_languages_indepth_custom: KeoFoxy/test_repository
-          plugin_languages_limit: 8
+          plugin_languages_other: yes
+          plugin_languages_indepth: no
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_colors: c++:#61dbfb
           plugin_languages_ignored: >-
             verilog, systemverilog, jupyter notebook, tcl
-          
-          
-          
-          
-          
-       #   plugin_languages: yes
-       #   plugin_languages_other: yes
-       #   plugin_languages_indepth: no
-       #   plugin_languages_details: lines, bytes-size
-       #   plugin_languages_colors: c++:#ffe2f6
-       #   plugin_languages_ignored: >-
-       #     verilog, systemverilog, jupyter notebook, tcl
   
 
  # random_code_snippet:
