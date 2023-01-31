@@ -77,30 +77,32 @@ jobs:
           plugin_followup: no
           plugin_languages: yes
           plugin_languages_other: yes
+          plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
+          plugin_languages_colors: cpp:#c6e2ff
           plugin_languages_ignored: >-
             verilog, systemverilog, jupyter notebook, tcl
   
 
-  random_code_snippet:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: snippet.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_ANIME }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.METRICS_ANIME }}
+ # random_code_snippet:
+ #   runs-on: ubuntu-latest
+ #   steps:
+ #     - uses: lowlighter/metrics@latest
+ #       with:
+ #         filename: snippet.svg
+ #         # You'll need to setup a personal token in your secrets.
+ #         token: ${{ secrets.METRICS_ANIME }}
+ #         # GITHUB_TOKEN is a special auto-generated token used for commits
+ #         committer_token: ${{ secrets.METRICS_ANIME }}
 
-          # Options
-          user: KeoFoxy
-          template: classic
-          base: ""
-          config_timezone: ${{ secrets.METRICS_ANIME }}
-          plugin_code: yes
-          plugin_code_load: 400
-          plugin_code_days: 365
-          plugin_code_languages: javascript, typescript, swift
+  #        # Options
+  #        user: KeoFoxy
+  #        template: classic
+  #       base: ""
+  #       config_timezone: ${{ secrets.METRICS_ANIME }}
+  #        plugin_code: yes
+  #        plugin_code_load: 400
+  #        plugin_code_days: 365
+  #       plugin_code_languages: javascript, typescript, swift
 
 
