@@ -80,7 +80,7 @@ jobs:
           plugin_languages_details: bytes-size, lines
           plugin_languages_indepth: yes
           plugin_languages_skipped: KeoFoxy/authorize-system
-          plugin_languages_indepth_custom: KeoFoxy/test_repository
+        #  plugin_languages_indepth_custom: KeoFoxy/test_repository
           plugin_languages_limit: 8
           plugin_languages_ignored: >-
             verilog, systemverilog, jupyter notebook, tcl
