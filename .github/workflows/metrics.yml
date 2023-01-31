@@ -76,16 +76,12 @@ jobs:
           config_timezone: ${{ secrets.METRICS_ANIME }}
           plugin_followup: no
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
           plugin_languages_colors: c++:#ffe2f6
           plugin_languages_details: bytes-size, lines
           plugin_languages_indepth: yes
           plugin_languages_skipped: KeoFoxy/authorize-system
           plugin_languages_indepth_custom: KeoFoxy/test_repository
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_ignored: >-
             verilog, systemverilog, jupyter notebook, tcl
           
