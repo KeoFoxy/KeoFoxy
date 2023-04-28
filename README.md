@@ -1,20 +1,80 @@
 <img src="images/cyberpunk_8bit.gif" height="auto" width="auto" style="border-radius:5%">
 
 ### こんにちは 👋, 私の名前はアレクサンデルです.
+
+<!---
 <img src="images/backstage-techdocs-icon-1.gif" align='right' height ='300' >  
+-->
+## I'm a Software Developer
 
-#### I'm a Software Developer
+### 📫 How to reach me:  
+
+[<img src="images/github-logo.svg"  alt='github' height='40'>](https://github.com/KeoFoxy) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' height='40' width='40'>](https://twitter.com/FoxyKeo) [<img src="images/telegram-svgrepo-com.svg" alt='Telegram' height='40' width='40'>](https://t.me/KeoFoxy) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedIn' height='40'>](https://www.linkedin.com/in/keofoxy/)
+
+### 💻 Tech Stack:
+
+<div style="display: grid; grid-template-columns: 1.5fr 3.5fr;">
+
+<div>
+
+***Mobile:***  
+<div>
+  <img src="./images/langs/swiftPastel.svg" alt='Swift' height='70'> 
+  <img style="padding-right: 10px;"src="./images/langs/swiftUIPastel.svg" alt='SwiftUI' height='70' > 
+  <img style="position: relative; top: -10px; padding-right: 10px; padding-right: 10px;" src="./images/langs/uikit.svg" alt='Swinject' height='50' >
+  <img style="position: relative; top: -7px; left: 3.5px; padding-right: 10px; padding-right: 15px;" src="./images/langs/alamofire.png" alt='Alamofire' height='65' >
+  <img style="position: relative; top: -15px; padding-right: 15px; " src="./images/langs/Swinject.png" alt='Swinject' height='50' >
+  <img style="position: relative; top: -15px; padding-right: 10px; " src="./images/langs/reactivex.svg" alt='Swinject' height='50' >
+</div>
+
+</div>
+
+<div>
+
+***Frontend:***  
+  <div style="margin-left: 5px;">
+    <img style="padding-right: 10px;" src="./images/langs/javascript.svg" height='60'> 
+    <img style="padding-right: 10px;" src="./images/langs/typescript.svg" height='60'>
+    <img style="padding-right: 10px;" src="./images/langs/icons8-react.svg" height='60'>
+    <img style="padding-right: 10px;" src="./images/langs/nextjs.png" height='60'>
+  </div>
+</div>
 
 
 
-**Skills**: C++; Qt;
+<div>
 
+***Backend:*** 
+ 
+<div style="margin-left: 5px;">
+  <img style="padding-right: 10px;" src="./images/langs/icons8-c++.svg" height='60'> 
+  <img style="padding-right: 10px;" src="./images/langs/icons8-python.svg" height='60'>
+  <img style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='60'>
+  
+</div>
+</div>
+
+<div>
+
+***Other***  
+<div style="margin-left: 5px">
+  <img style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='60'/>
+  <img style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height='60' />
+  <img style="padding-right: 10px" src="./images/langs/markdown.svg" height='60'>
+  <img style="padding-right: 10px" src="./images/langs/jupyter.svg" height='60'/>
+          
+</div>
+</div>
+
+</div>
+
+<!---
 - 🔭 I’m currently working on my graduation project
-- 📫 How to reach me:  
-[<img src="images/github-logo.svg"  alt='github' height='40'>](https://github.com/KeoFoxy) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' height='40' width='40'>](https://twitter.com/FoxyKeo) [<img src="images/telegram-svgrepo-com.svg" alt='Telegram' height='40' width='40'>](https://t.me/KeoFoxy) [<img src="images/code-wars-logo.svg" alt='codewars' height='40'>](https://www.codewars.com/users/KeoFoxy) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedIn' height='40'>](https://www.linkedin.com/in/keofoxy/)
+
 
 - 🍤 I’m currently learning:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height='40'>
+-->
           
 <!---
 your comment goes here
@@ -23,7 +83,10 @@ and here
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&langs_count=10&layout=compact&theme=react&hide=tcl,verilog,systemverilog)](https://github.com/KeoFoxy)
 -->
+
+<!---
 [![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
+-->
 <!---
 [![Metrics_toplang](top_languages.svg)](https://github.com/KeoFoxy)
 -->
@@ -34,10 +97,11 @@ and here
 [<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   
 
 
-
 <!---
 ![My Discord width="1000px"](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
 -->
 
+<!---
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
 <img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'>
+-->
