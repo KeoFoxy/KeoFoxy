@@ -19,8 +19,8 @@
 
 ***Mobile:***  
 <div>
-  <img src="./images/langs/swift.svg" alt='Swift' height='80'> 
-  <img src="./images/langs/swiftUI.svg" alt='SwiftUI' height='80' > 
+  <img src="./images/langs/swift.svg" alt='Swift' height='60'> 
+  <img src="./images/langs/swiftUI.svg" alt='SwiftUI' height='60' > 
 
 </div>
 
