@@ -21,10 +21,7 @@
 <div>
   <img src="./images/langs/swiftPastel.svg" alt='Swift' height='70'> 
   <img style="padding-right: 10px;"src="./images/langs/swiftUIPastel.svg" alt='SwiftUI' height='70' > 
-  <img style="position: relative; top: -10px; padding-right: 10px; padding-right: 10px;" src="./images/langs/uikit.svg" alt='Swinject' height='50' >
-  <img style="position: relative; top: -7px; left: 3.5px; padding-right: 10px; padding-right: 15px;" src="./images/langs/alamofire.png" alt='Alamofire' height='65' >
-  <img style="position: relative; top: -15px; padding-right: 15px; " src="./images/langs/Swinject.png" alt='Swinject' height='50' >
-  <img style="position: relative; top: -15px; padding-right: 10px; " src="./images/langs/reactivex.svg" alt='Swinject' height='50' >
+
 </div>
 
 </div>
