@@ -82,6 +82,21 @@ jobs:
          # plugin_languages_colors: c++:#61dbfb
           plugin_languages_ignored: >-
             verilog, systemverilog, jupyter notebook, tcl
+            
+  steam: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198153064226"
+          plugin_steam_games_limit: 5
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 5
   
 
  # random_code_snippet:
