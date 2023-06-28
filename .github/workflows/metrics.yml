@@ -89,7 +89,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.steam.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.STEAM_TOKEN }}
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
