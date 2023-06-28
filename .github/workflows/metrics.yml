@@ -99,6 +99,18 @@ jobs:
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_achievements_limit: 3
   
+  leetcode: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: "KeoFoxy"
+          plugin_leetcode_sections: solved, skills, recent
+  
 
  # random_code_snippet:
  #   runs-on: ubuntu-latest
