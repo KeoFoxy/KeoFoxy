@@ -95,7 +95,7 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561198153064226"
           plugin_steam_games_limit: 5
-          plugin_steam_games_ignored: 730, 271590, 304050, 240, 431960, 359320, 236390
+          plugin_steam_games_ignored: 730, 271590, 304050, 240, 431960, 359320, 236390, 363970
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_achievements_limit: 3
   
