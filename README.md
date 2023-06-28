@@ -89,12 +89,12 @@ and here
 -->
 [<img src="anime.svg" align='left' height="520px">](https://anilist.co/user/KeoFoxy/) 
 
-[<img src="steam.svg" align='right'>](https://steamcommunity.com/id/KeoFoxy/)
+[<img src="steam.svg" align='right' height="920px">](https://steamcommunity.com/id/KeoFoxy/)
 
 [<img src="top_languages.svg" align='left' height="140px">](https://github.com/KeoFoxy)   
 <!--[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   -->
 
-
+[<img src="leetcode.svg" align='left' height="260px">](https://github.com/KeoFoxy) 
 
 
 <!---
