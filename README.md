@@ -91,7 +91,9 @@ and here
 
 
 [<img src="top_languages.svg" align='left' height="140px">](https://github.com/KeoFoxy)   
-[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   
+<!--[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   -->
+
+
 
 
 <!---
