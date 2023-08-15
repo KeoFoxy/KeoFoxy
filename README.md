@@ -45,6 +45,8 @@
  
 <div style="margin-left: 5px;">
   <img style="padding-right: 10px;" src="./images/langs/icons8-c++.svg" height='60'> 
+  <img style="padding-right: 10px;" src="./images/langs/java.svg" height='60'>
+  <img style="padding-right: 10px;" src="./images/langs/kotlin.svg" height='60'>
   <img style="padding-right: 10px;" src="./images/langs/icons8-python.svg" height='60'>
   <img style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='60'>
   
