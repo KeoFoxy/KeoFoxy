@@ -1,6 +1,6 @@
 <img src="images/cyberpunk_8bit.gif" height="auto" width="auto" style="border-radius:5%">
 
-### こんにちは 👋, 私の名前はアレクサンデルです.
+### Hello 👋, My name is Alexandr.
 
 <!---
 <img src="images/backstage-techdocs-icon-1.gif" align='right' height ='300' >  
