@@ -79,7 +79,8 @@ jobs:
           plugin_languages_other: no
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_colors: tsx:#C6E2FF
+          # plugin_languages_colors: tsx:#C6E2FF #61dbfb
+          plugin_languages_colors: tsx:#61dbfb
           plugin_languages_ignored: >-
             verilog, systemverilog, jupyter notebook, tcl
             
