@@ -107,3 +107,5 @@ and here
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
 <img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'>
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
