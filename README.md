@@ -114,7 +114,7 @@ and here
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog   0 secs          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+Prolog   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
