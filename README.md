@@ -96,7 +96,8 @@ and here
 [<img src="top_languages.svg" align='left' >](https://github.com/KeoFoxy)   
 <!--[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   -->
 
-[<img src="leetcode.svg" align='left' >](https://github.com/KeoFoxy) 
+[<img src="leetcode.svg" align='left' >](https://github.com/KeoFoxy)    
+
 
 
 <!---
@@ -106,7 +107,10 @@ and here
 <!---
 <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
 <img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'>
--->
+-->   
+
+
+
 <!--START_SECTION:waka-->
 
 ```txt
