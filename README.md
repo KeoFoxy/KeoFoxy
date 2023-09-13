@@ -114,7 +114,11 @@ and here
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog   0 secs          █████████████████████████   100.00 %
+TypeScript       10 mins         ██████████▒░░░░░░░░░░░░░░   41.99 %
+JavaScript       9 mins          █████████▒░░░░░░░░░░░░░░░   36.76 %
+CSS              3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
