@@ -89,7 +89,7 @@ and here
 -->
 
 
- [<img src="anime.svg" align='left' height="520px">](https://anilist.co/user/KeoFoxy/) 
+ [<img src="anime.svg" align='left' height="540px">](https://anilist.co/user/KeoFoxy/) 
 
 [<img src="steam.svg" align='right' height="920px">](https://steamcommunity.com/id/KeoFoxy/) 
 
