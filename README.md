@@ -53,6 +53,19 @@
 </div>
 </div>
 
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript       10 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
+JavaScript       9 mins          ███████░░░░░░░░░░░░░░░░░░   27.88 %
+HTML             7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+CSS              3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+```
+
+<!--END_SECTION:waka-->
+
 <!-- <div>
 
 ***Other***  
@@ -66,15 +79,7 @@
 </div> -->
 
 </div>
-
-<!---
-- 🔭 I’m currently working on my graduation project
-
-
-- 🍤 I’m currently learning:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height='40'>
--->
-          
+     
 <!---
 your comment goes here
 and here
@@ -83,15 +88,10 @@ and here
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&langs_count=10&layout=compact&theme=react&hide=tcl,verilog,systemverilog)](https://github.com/KeoFoxy)
 -->
 
-<!---
-[![codewars](https://www.codewars.com/users/KeoFoxy/badges/small)](https://www.codewars.com/users/KeoFoxy)
--->
-<!---
-[![Metrics_toplang](top_languages.svg)](https://github.com/KeoFoxy)
--->
-<!-- [<img src="anime.svg" align='left' height="520px">](https://anilist.co/user/KeoFoxy/) 
 
-[<img src="steam.svg" align='right' height="920px">](https://steamcommunity.com/id/KeoFoxy/) -->
+ [<img src="anime.svg" align='left' height="520px">](https://anilist.co/user/KeoFoxy/) 
+
+[<img src="steam.svg" align='right' height="920px">](https://steamcommunity.com/id/KeoFoxy/) 
 
 [<img src="top_languages.svg" align='left' >](https://github.com/KeoFoxy)   
 <!--[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   -->
@@ -104,21 +104,7 @@ and here
 ![My Discord width="1000px"](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
 -->
 
-<!---
-<img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
-<img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'>
--->   
 
+<!-- <img src="https://steam-stat.vercel.app/api?profileName=KeoFoxy" align='left'>
+<img src="https://discord-readme-badge.vercel.app/api?id=302117410012659713" align='right'> -->
 
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript       10 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
-JavaScript       9 mins          ███████░░░░░░░░░░░░░░░░░░   27.88 %
-HTML             7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-CSS              3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-```
-
-<!--END_SECTION:waka-->
