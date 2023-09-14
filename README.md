@@ -93,10 +93,10 @@ and here
 
 [<img src="steam.svg" align='right' height="920px">](https://steamcommunity.com/id/KeoFoxy/) 
 
-[<img src="top_languages.svg" align='left' >](https://github.com/KeoFoxy)   
+[<img src="top_languages.svg" align='left' height="150px">](https://github.com/KeoFoxy)   
 <!--[<img src="twitter.svg" align='left' height="370px">](https://twitter.com/FoxyKeo)   -->
 
-[<img src="leetcode.svg" align='left' >](https://github.com/KeoFoxy)    
+[<img src="leetcode.svg" align='left' height="250px">](https://github.com/KeoFoxy)    
 
 
 
