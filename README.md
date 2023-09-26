@@ -57,11 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         4 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.81 %
-TypeScript       1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-Assembly         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Prolog           1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Python           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Markdown         4 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   43.13 %
+TypeScript       2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Assembly         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Prolog           1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Python           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
