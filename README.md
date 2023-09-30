@@ -57,11 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.64 %
-TypeScript    2 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-Assembly      1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-Prolog        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Objective-C   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+TypeScript    2 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.33 %
+Markdown      2 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.20 %
+Objective-C   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Other         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+GDScript3     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
