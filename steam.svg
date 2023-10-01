@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            6.07k hours played
+                            6.08k hours played
                         </div>
                     </section>
                 </div>
@@ -383,7 +383,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        63 hours played
+                                        70 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -391,7 +391,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 24 Sept 2023
+                                        Last played on 1 Oct 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -400,7 +400,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 57 achievements unlocked
+                                            12 / 57 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAQIDCP/EACwQAAIBAwIDBgcBAAAAAAAAAAECAwQREgAhMUFRBQYTYXGBFBUiYpGxwfD/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMCBf/EACIRAAIBBAEEAwAAAAAAAAAAAAERAgADITFBBAUSURMUYf/aAAwDAQACEQMRAD8A5whdiGst7C5sOA66x7PqYopi1TD48YJOGWNzyuemm1PKYe7VWYAyO9RHGcdywxO3p5aFo6eOlnlMlJLUlcS6OoGx42F+PMfrUzMZddG10MnblA7DLDAyeMvXqtUlbTNVZwUwijYC8ZbIA87HT2OsWaDGctI8iizSkkqv26UTmjqZIoV7OaklJLLsVz6Dc/46YJLJ8lpA7EMlU0ahjcoAoON/zoExgKle7eT8lwzBQeAg2GFhb9UH2fm3dus8NMmjqUdgvFVxIy9r6UrVmLIQvJGS24H02sdtxx9xqFTCgIcXbYgE3t56ulippagLVTvAhBvIFyseVx00eIDJrP2pzFu3DBAWT+nPC3zRs7riJJamR5ShdcrnIcgSf5z0TUySL3dp5JlxeaqeRAdiVwAuB020tqaWnSRvhagyxKBZ2Qrkedh00MzWtf0FzwGkIaNUu9bIeduQ2FgvLGeXqv/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Arachnophobia</div>
+                                                <div class="unlocked">30 Sept 2023</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUBAwIGCP/EACYQAAICAQMDBAMBAAAAAAAAAAECAxEEABIhBhMxBUFRYSJicVL/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABf/EACERAAICAgIDAAMAAAAAAAAAAAERAiEAMQMEBRJBEyIy/9oADAMBAAIRAxEAPwDm+ORtrUt7RZoeBqfTpEilMmbD3IVJtGYrZ9r+tMY5ux0vmtDcbNOiNtN2Np4/n1q/KxpW6pafH3PK07L2xXIVEPN8V+Woy5NjOx1vHsQ5Iln9aT2ZDX3WvrxdkzQjLL4+KEiYUY7LUff7GnUWYs0G2ctI8iimlJJVf10MmPJD1XBJk47Y872xS1YG0azY8nWGDkSS9O4JkkJZMlo0J5pQoNfzRjNoYnb8cvychKI9qS0Y/KX9aVLBIY3n6VzliXc0eSjsB5ChSL/nOj8vIhOfLLk4srQLOWcnyAyIFFA/6UHz41rzKYkvuDc3BAJuvvR/pHqMkEnYlzXhxXvcGjEik+1j4+a0s4HeW6ffiPXikFQDohgyIbQV3eO8ZUkLepQxsmNFJupyQxARtxUH9m8XxWlAV8bpXD7ilWkyXdATRKlALH1qrNlYocfGzpJMJRQUgorHyePi/c6XFttA+3As+NaHGdnD3vIQkDxxjaINhMkMhOqQvP/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>All the President's Men</div>
+                                                <div class="unlocked">30 Sept 2023</div>
+                                            </div>
+                                            <div class="description">Save President Myers.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -414,28 +434,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgE/8QAKhAAAQQBAgYCAQUBAAAAAAAAAQIDBBEFABIGBxMhMVEiQUIIFCQyYVL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwX/xAAhEQABBAIDAAMBAAAAAAAAAAABAgMRIQAEBRIxQWFxwf/aAAwDAQACEQMRAD8AzJHivyEPqjxnHksoLjqkIKg2geVGvA/066eH5sTH5dmTkMY1lGGtxMV1xSELNfEqKe9A0SPuq0Z4mQ/G5KZxMN5xn9xmo7LvTVt6iOis7DXlNgdtF3KnlzLyeWnR8vw+oYtLQYMyQS2LKb3oT5cN7SO+0AezrI2uTaYadU/QSSPYJECY8u6i8SGyogDFZxBmmMtkRIg42PimS2AuLHWpTW/8lJCv6g/8+BqTSpcbHhbzLqGpST0nCkoSoA0SmqB7ivvTx54cD4eBj8A0mVGxseHCXHQ++SnqdNNpRSUnctSlWf8AAfF6WsWTIkckpTT7zjjcfOMpZQtVhoKZWSE34BPeho6HLI2NZt1lJ6khNk+EkCz7kn9eFEH9yGIjPT+TOfTHCnFx8vHkvbPkptoNLTvI87bIF6aXCHPJpuTi406BvgyGUNuGMCt9mQB87b/JCjRFe/uq1mlLrje7apQChtVRrcPR9jVlw03BlZdlnLZFeMiqv+WhoudNVfEkAg1dWR3A0d7h9faQs7NiSRAMiQB8empFfUZZDq0R1zT/AOoWDw9kMJCyebyr8d+LHdMSA3QckOLSNtpPdNECzXix20lo8Z+LyTedkoLSJmbacjlfbrJQytKlJH2Ae1+9CPE7OPx+V6OIyy8u2lsdSV0lNpU533BG42UjtRNX61WKlrUhKDZSnskE2E2bNetDi+KOtqttBwqAIVYipmAPRfsyf4XnCtZPXP/Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>The World</div>
-                                                <div class="unlocked">12 Dec 2020</div>
-                                            </div>
-                                            <div class="description">Complete the main storyline.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBBAMFCP/EACsQAAEDAgUEAQMFAAAAAAAAAAECAwQFEQAGEhMhByIxUUEUUmEVI2Jygf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAgMF/8QAJBEAAQMDBAIDAQAAAAAAAAAAAQIDEQAhQQQFEjEiUVJhcbH/2gAMAwEAAhEDEQA/AOYADyAkK4ufmwxuMrRGFVJqRVaVPqNNQVBTUZe3uLt2pK7Gwva9ubeME1Afdg9IszPQVJZfk1GNCdcCRqUyptwqb1WuEkgH/MGFIyLLzVFpzP6wX4lLkOsLorDiGn22mSAVo1dpWtdySr7hz64+r3JDQWHPFIJEyfiDjo3gXH7irIQTEXpa5lLP1ynqVBkwaYbJTHefTIDTlu5AWPi/gK5titGluNRXEG4LqeLdoA9gC3rBtmqnVfLkafRql+5SnkyNlMlCFvMOI0rCdwck208+CNVhbnFOpSXp3SCiOS1B12LVX4jK1JGpDIaSoN386QSTY+8b6bWkobjySTAMk2gwb9m0G/3Jo7zAM4zWCjxnpnRzMmyhxzZq0R51SElW2gNOAqVbwLkc4Pejmeqfl9mTUqohpMSWpSZD6UanmpIbSQj+jgR2/wArhXgHCEZlSY6XUsvOtpdRtuBCyAtP2m3kfg4NejdcplIzpFczAmEaedR1TG1ONtuW7VWTexvxqIIAJ4+cD3Pb0u6d7mCoEzA76Fv2RI/ntLSyFJinwjN2Sc7ZcqNPzXMptJnTXS4tpBUhxrSAltRdUnSpYSLEjtsbeMKnOdLjUfpxEjU+Q7Kp5r0lUWU4nSJLYZQNxHtNwRccXBxHXnqCzmiuoh0tUCRTYliiUyydxS7dydxXJSPwAD5wsHqhIfaabecccQ0nQ0FrKg2m97JHwLnxgmzbUppCHgSgE8uBMgWgRYEY7x7N6nUOciUxOJr/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Judy vs Night City</div>
-                                                <div class="unlocked">12 Dec 2020</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
