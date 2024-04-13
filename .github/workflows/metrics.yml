@@ -51,7 +51,6 @@ jobs:
           config_timezone: Europe/Moscow
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request
 
   wakatime:
