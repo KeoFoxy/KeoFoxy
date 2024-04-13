@@ -88,8 +88,8 @@ and here
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&langs_count=10&layout=compact&theme=react&hide=tcl,verilog,systemverilog)](https://github.com/KeoFoxy)
 -->
 
-[<img src="./notable_contributions.svg" align="left" >](https://github.com/KeoFoxy)
-[<img src="./wakatime.svg" align="right" >](https://github.com/KeoFoxy)
+[<img src="./notable_contributions.svg" height="80px">](https://github.com/KeoFoxy)
+[<img src="./wakatime.svg" >](https://wakatime.com/@KeoFoxy)
 
 [<img src="anime.svg" align='left' height="540px">](https://anilist.co/user/KeoFoxy/) 
 
