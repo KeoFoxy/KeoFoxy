@@ -56,13 +56,13 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+<!-- ```txt
 TypeScript        26 hrs 23 mins  ███████████████████▒░░░░░   77.52 %
 Scala             3 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
 Swift             1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 Text              1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 sbt               29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-```
+``` -->
 
 <!--END_SECTION:waka-->
 
@@ -88,8 +88,10 @@ and here
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeoFoxy&langs_count=10&layout=compact&theme=react&hide=tcl,verilog,systemverilog)](https://github.com/KeoFoxy)
 -->
 
+[<img src="./notable_contributions.svg" align="left" >](https://github.com/KeoFoxy)
+[<img src="./wakatime.svg" align="right" >](https://github.com/KeoFoxy)
 
- [<img src="anime.svg" align='left' height="540px">](https://anilist.co/user/KeoFoxy/) 
+[<img src="anime.svg" align='left' height="540px">](https://anilist.co/user/KeoFoxy/) 
 
 [<img src="steam.svg" align='right' height="920px">](https://steamcommunity.com/id/KeoFoxy/) 
 
