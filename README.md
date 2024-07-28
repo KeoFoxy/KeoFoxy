@@ -1,4 +1,4 @@
-<img src="images/sakura-tree3.gif" width="80%" >
+<img src="images/sakura-tree3.gif" width="100%" >
 
 ### Hello 👋, My name is Alexandr.
 
