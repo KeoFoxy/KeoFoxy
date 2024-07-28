@@ -1,4 +1,4 @@
-<img src="images/cyberpunk_8bit.gif" height="auto" width="auto" style="border-radius:5%">
+<img src="images/sakura-tree3.gif" height="auto" width="100%">
 
 ### Hello 👋, My name is Alexandr.
 
@@ -13,7 +13,7 @@
 
 ### 💻 Tech Stack:
 
-<div style="display: grid; grid-template-columns: 1.5fr 3.5fr;">
+<!-- <div>
 
 <div>
 
@@ -24,34 +24,67 @@
 
 </div>
 
-</div>
+</div> -->
 
 <div>
+  <img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" height='35'/>
+
+  <img src="https://img.shields.io/badge/-arc-05122A?style=for-the-badge&color=282a36&logo=arc&logoColor=FCBFBD" height='35'/>
+
+  <img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" height='35'/>
+
+  <img src="https://img.shields.io/badge/-warp-05122A?style=for-the-badge&color=282a36&logo=warp&logoColor=01A4FF" height='35'/>    
+</div>
+
+
+
+<div>
+  <img src="https://img.shields.io/badge/-JavaScript-0512AB?style=for-the-badge&color=282a36&logo=JavaScript&logoColor=#F7DF1E" height='35'/>
+
+  <img src="https://img.shields.io/badge/-TypeScript-0512AB?style=for-the-badge&color=282a36&logo=TypeScript&logoColor=#3178C6" height='35'/>
+
+  <img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=fd7426" height='35'/>
+
+  <img src="https://img.shields.io/badge/-Rust-0512AB?style=for-the-badge&color=282a36&logo=Rust&logoColor=e96347" height='35'/>
+
+  <img src="https://img.shields.io/badge/-Golang-0512AB?style=for-the-badge&color=282a36&logo=Go&logoColor=#00ADD8" height='35'/>
+
+  <img src="https://img.shields.io/badge/-C++-0512AB?style=for-the-badge&color=282a36&logo=cplusplus&logoColor=#00599C" height='35'/>
+
+</div>
+
+<!-- <div>
+  <img src="https://img.shields.io/badge/-React-0512AB?style=for-the-badge&color=282a36&logo=React&logoColor=61dbfb" height='35'/>
+
+  <img src="https://img.shields.io/badge/-Redux-0512AB?style=for-the-badge&color=282a36&logo=Redux&logoColor=764ABC" height='35'/>
+  
+  <img src="https://img.shields.io/badge/-Actix-0512AB?style=for-the-badge&color=282a36&logo=actix&logoColor=FFF" height='35'/>
+</div> -->
+
+<!-- <div>
 
 ***Frontend:***  
   <div style="margin-left: 5px;">
     <img style="padding-right: 10px;" src="./images/langs/javascript.svg" height='60'> 
     <img style="padding-right: 10px;" src="./images/langs/typescript.svg" height='60'>
-    <img style="padding-right: 10px;" src="./images/langs/icons8-react.svg" height='60'>
-    <img style="padding-right: 10px;" src="./images/langs/nextjs.png" height='60'>
+    <img style="padding-right: 10px;" src="./images/langs/react.svg" height='60'>
+    <img style="padding-right: 10px;" src="./images/langs/nextdotjs.svg" height='60'>
   </div>
-</div>
+</div> -->
 
 
 
-<div>
+<!-- <div>
 
 ***Backend:*** 
  
 <div style="margin-left: 5px;">
   <img style="padding-right: 10px;" src="./images/langs/icons8-c++.svg" height='60'> 
-  <img style="padding-right: 10px;" src="./images/langs/java.svg" height='60'>
-  <img style="padding-right: 10px;" src="./images/langs/kotlin.svg" height='60'>
-  <img style="padding-right: 10px;" src="./images/langs/icons8-python.svg" height='60'>
-  <img style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='60'>
+  <img src='./images/langs/rust.svg' height='60'>
+  <img style="padding-right: 10px;" src="./images/langs/Go-Logo_Blue.svg" height='60'> 
   
 </div>
-</div>
+</div> -->
 
 
 <!--START_SECTION:waka-->
@@ -100,7 +133,7 @@ and here
 
 [<img src="leetcode.svg" align='left' height="250px">](https://github.com/KeoFoxy)    
 
-
+<img src='./images/marine-rust.jpg'>
 
 <!---
 ![My Discord width="1000px"](https://discord-readme-badge.vercel.app/api?id=302117410012659713)
