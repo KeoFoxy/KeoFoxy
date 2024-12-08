@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.26mb of code in 2105 edited files across 1193 commits</small>
+                <small>estimation from 7.26mb of code in 2106 edited files across 1194 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -28,7 +28,7 @@
                     <rect mask="url(#languages-bar)" x="428.0898821364779" y="0" width="8.850899359008825" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="436.94078149548676" y="0" width="7.268624885750642" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="444.20940638123744" y="0" width="5.4948177088000385" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.7042240900375" y="0" width="5.492894137887776" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="449.7042240900375" y="0" width="5.492894137887776" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="455.1971182279253" y="0" width="4.802881772074768" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
@@ -72,7 +72,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
