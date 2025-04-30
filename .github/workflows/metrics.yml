@@ -92,6 +92,8 @@ jobs:
           plugin_languages_other: no
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
+          plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 365
           # plugin_languages_colors: tsx:#C6E2FF #61dbfb
           # plugin_languages_colors: TSX:#61dbfb, c++:#b46aff
           plugin_languages_ignored: >-
