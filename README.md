@@ -45,7 +45,7 @@
 
   <img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=fd7426" height='35'/>
 
-  <img src="https://img.shields.io/badge/-Rust-0512AB?style=for-the-badge&color=282a36&logo=Rust&logoColor=e96347" height='35'/>
+  <!-- <img src="https://img.shields.io/badge/-Rust-0512AB?style=for-the-badge&color=282a36&logo=Rust&logoColor=e96347" height='35'/> -->
 
   <img src="https://img.shields.io/badge/-Golang-0512AB?style=for-the-badge&color=282a36&logo=Go&logoColor=#00ADD8" height='35'/>
 
