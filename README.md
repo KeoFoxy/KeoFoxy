@@ -90,11 +90,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text       1 hr 54 mins    ████████████████████▓░░░░   82.26 %
-Markdown   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Go         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
