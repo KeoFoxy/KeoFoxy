@@ -90,11 +90,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-Go               5 hrs 7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
-Other            2 hrs 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Makefile         2 hrs 23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Markdown         2 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Go               8 hrs 3 mins          █████████░░░░░░░░░░░░░░░░   36.37 %
+Other            3 hrs 45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+TypeScript       2 hrs 31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Makefile         2 hrs 23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Markdown         2 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
 ```
 
 <!--END_SECTION:waka-->
